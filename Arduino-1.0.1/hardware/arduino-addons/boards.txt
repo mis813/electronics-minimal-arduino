@@ -1,0 +1,19 @@
+##############################################################
+
+atmega8noxtalfast.name=ATmega8A (8MHz int. RC osc, short bootloader delay, 38400 baud rate)
+
+atmega8noxtalfast.upload.protocol=stk500
+atmega8noxtalfast.upload.maximum_size=7168
+atmega8noxtalfast.upload.speed=38400
+
+atmega8noxtalfast.bootloader.low_fuses=0xe4
+atmega8noxtalfast.bootloader.high_fuses=0xc2
+atmega8noxtalfast.bootloader.path=atmega8a
+atmega8noxtalfast.bootloader.file=ATmegaBOOT.hex
+atmega8noxtalfast.bootloader.unlock_bits=0x3F
+atmega8noxtalfast.bootloader.lock_bits=0x0F
+
+atmega8noxtalfast.build.mcu=atmega8
+atmega8noxtalfast.build.f_cpu=8000000L
+atmega8noxtalfast.build.core=arduino:arduino
+atmega8noxtalfast.build.variant=arduino:standard

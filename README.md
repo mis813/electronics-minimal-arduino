@@ -1,0 +1,1 @@
+В репозитории хранятся файлы к моей статье [Минимальная Arduino-совместимая конструкция за $3](http://mk90.blogspot.com/2011/01/arduino-3-atmega8a-bootloader.html) в блоге [mk90.blogspot.com](http://mk90.blogspot.com)
