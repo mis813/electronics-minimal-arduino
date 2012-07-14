@@ -1,6 +1,6 @@
 ##############################################################
 
-atmega8noxtalfast.name=ATmega8A (8MHz int. RC osc, short bootloader delay, 38400 baud rate)
+atmega8noxtalfast.name=ATmega8(A) (8MHz int. RC osc, short bootloader delay, 38400 baud rate)
 
 atmega8noxtalfast.upload.protocol=arduino
 atmega8noxtalfast.upload.maximum_size=7168

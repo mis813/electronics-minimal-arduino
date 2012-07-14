@@ -18,6 +18,7 @@ atmega8noxtalfast.build.f_cpu=8000000L
 atmega8noxtalfast.build.core=arduino:arduino
 atmega8noxtalfast.build.variant=arduino:standard
 
+
 ##############################################################
 atmega8optiboot.name=ATmega8(A) (16Mhz XTAL, optiboot)
 
