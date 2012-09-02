@@ -35,5 +35,5 @@ atmega8optiboot.bootloader.lock_bits=0x0F
 
 atmega8optiboot.build.mcu=atmega8
 atmega8optiboot.build.f_cpu=16000000L
-atmega8noxtalfast.build.core=arduino:arduino
-atmega8noxtalfast.build.variant=arduino:standard
+atmega8optiboot.build.core=arduino:arduino
+atmega8optiboot.build.variant=arduino:standard
